@@ -129,4 +129,4 @@ Possible future improvements include:
 
 The Social Spark application demonstrates basic Android development skills, conditional logic in Kotlin, and the use of GitHub for version control and project management. The project highlights how simple applications can provide useful interactions for users while applying important programming concepts.
 
-PPRESENTATION VIDIO:https://youtube.com/shorts/-LwvnTb60BM
+PPRESENTATION VIDEO:https://youtube.com/shorts/-LwvnTb60BM
